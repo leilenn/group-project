@@ -25,11 +25,12 @@ main h2 {
 }
 
 /* Add Student Styles Below */
-.jane-style {
-    color: hotpink;
-    background-color: black;
-    padding: 3px;
+
+.sunflower-style  {
+    color: yellow 
+    background-color: purple;
 }
+
 
 .code-ninja-style {
     color: blue;
